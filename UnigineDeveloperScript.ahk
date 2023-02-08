@@ -3,3 +3,4 @@ Run chrome.exe https://developer.unigine.com/ru/docs/2.16/api/editor/annotated.h
 Run https://developer.unigine.com/en/docs/latest
 Run https://youtrack.unigine.com/agiles/85-92/current
 Run https://git.unigine.com/
+Run "D:\Unigine SDK Browser 2\browser2\SdkBrowser.exe"
